@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Digi Samachar</string>
+    <string name="please_select_the_option">Please Select the Option...</string>
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="finance">finance</string>
+    <string name="health">health</string>
+    <string name="lifestyle">lifestyle</string>
+    <string name="opinion">opinion</string>
+    <string name="politics">politics</string>
+    <string name="regional">regional</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="search">Search</string>
+
+</resources>

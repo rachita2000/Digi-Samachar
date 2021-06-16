@@ -1,0 +1,2 @@
+rootProject.name = "Digi Samachar"
+include ':app'

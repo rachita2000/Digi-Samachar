@@ -8,7 +8,7 @@ An android application which allow users to read news from various options. App 
 
 <table>
         <tr>
-        <td><img src = ""  width="280"></td>
+        <td><img src = "https://user-images.githubusercontent.com/71177842/127336661-0aec4ac0-a4cd-46d2-b972-4af0cb7f72ad.png"  width="280"></td>
         <td><img src = "" 
 width="280"></td>
         <td><img src = "" 
